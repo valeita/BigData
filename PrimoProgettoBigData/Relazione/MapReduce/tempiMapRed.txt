@@ -1,0 +1,86 @@
+======= MAP REDUCE LOCAL =======
+
+time hadoop jar MapRedJob1.jar input/Reviews.csv outputJob1/result
+
+real	0m13,789s
+user	0m21,053s
+sys	0m0,823s
+
+real	0m13,781s
+user	0m22,304s
+sys	0m0,805s
+
+real	0m13,767s
+user	0m20,985s
+sys	0m0,826s
+
+DOUBLE
+
+real	0m29,630s
+user	0m41,026s
+sys	0m1,769s
+
+QUAD
+
+real	0m46,882s
+user	0m57,496s
+sys	0m2,340s
+
+
+time hadoop jar MapRedJob2.jar input/Reviews.csv outputJob2/result
+
+real	0m9,892s
+user	0m18,015s
+sys	0m0,828s
+
+real	0m9,561s
+user	0m18,594s
+sys	0m0,735s
+
+real	0m9,657s
+user	0m19,208s
+sys	0m0,785s
+
+DOUBLE
+
+real	0m17,138s
+user	0m29,317s
+sys	0m1,365s
+
+QUAD
+
+real	0m26,572s
+user	0m37,766s
+sys	0m1,783s
+
+
+
+time hadoop jar MapRedJob3.jar input/Reviews.csv outputJob3/result
+real	0m12,281s
+user	0m21,849s
+sys	0m0,786s
+
+real	0m12,842s
+user	0m21,903s
+sys	0m0,784s
+
+real	0m12,028s
+user	0m21,866s
+sys	0m0,793s
+
+DOUBLE
+
+real	0m26,891s
+user	0m38,915s
+sys	0m1,675s
+
+QUAD
+
+real	0m58,508s
+user	1m9,673s
+sys	0m2,134s
+
+======= MAP REDUCE CLUSTER =======
+
+
+

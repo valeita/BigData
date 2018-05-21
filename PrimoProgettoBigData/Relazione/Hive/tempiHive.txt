@@ -1,0 +1,87 @@
+======= HIVE LOCAL =======
+
+time hive -f job1Hive.hql
+
+real	0m42,495s
+user	1m28,483s
+sys	0m1,527s
+
+real	0m45,739s
+user	1m28,678s
+sys	0m1,592s
+
+real	0m38,622s
+user	1m21,530s
+sys	0m1,361s
+
+DOUBLE
+
+real	1m19,549s
+user	2m32,047s
+sys	0m2,450s
+
+QUAD
+
+real	2m19,778s
+user	4m4,480s
+sys	0m3,717s
+
+
+time hive -f job2Hive.hql
+
+real	0m30,767s
+user	0m50,417s
+sys	0m1,552s
+
+real	0m31,899s
+user	0m50,904s
+sys	0m1,569s
+
+real	0m31,268s
+user	0m51,412s
+sys	0m1,579s
+
+DOUBLE
+
+real	0m43,652s
+user	1m5,784s
+sys	0m2,355s
+
+QUAD
+
+real	1m3,769s
+user	1m17,304s
+sys	0m3,092s
+
+time hive -f job3Hive.hql
+
+real	0m41,694s
+user	1m2,084s
+sys	0m1,843s
+
+real	0m41,811s
+user	1m2,350s
+sys	0m1,951s
+
+real	0m40,984s
+user	1m2,125s
+sys	0m1,848s
+
+DOUBLE
+
+real	1m6,528s
+user	1m31,551s
+sys	0m2,680s
+
+QUAD
+
+real	2m24,171s
+user	2m32,131s
+sys	0m5,461s
+
+
+
+======= HIVE CLUSTER =======
+
+
+

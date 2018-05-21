@@ -1,0 +1,27 @@
+1999		a: 3
+1999		day: 3
+1999		fairy: 3
+1999		modern: 3
+1999		tale: 3
+1999		is: 2
+1999		book: 1
+1999		child: 1
+1999		educational: 1
+1999		entertainingl: 1
+2000		a: 11
+2000		version: 5
+
+...
+
+2011		not: 8360
+2011		love: 8021
+2012		great: 23137
+2012		good: 16889
+2012		the: 16357
+2012		for: 12417
+2012		a: 12354
+2012		and: 10498
+2012		not: 10066
+2012		love: 9678
+2012		coffee: 9621
+2012		my: 9601
